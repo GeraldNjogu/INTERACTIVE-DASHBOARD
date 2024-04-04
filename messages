@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Customer Feedback</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #000000;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        background-color: #FF0000;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    h2 {
+        text-align: center;
+    }
+    
+    .feedback-card {
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .customer-details {
+        margin-bottom: 10px;
+    }
+    
+    .customer-name {
+        font-weight: bold;
+    }
+    
+    .customer-email {
+        color: #7B68EE;
+    }
+    
+    .feedback-text {
+        margin-bottom: 10px;
+    }
+    
+    .feedback-date {
+        color: #800080;
+        font-size: 14px;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <h2>Customer Feedback</h2>
+    <div class="feedback-card">
+        <div class="customer-details">
+            <span class="customer-name">gerald james</span><br>
+            <span class="customer-email">geraldsj@gmail.com</span>
+        </div>
+        <div class="feedback-text">
+            <p>Thank you very much for creating such a website for it has been very helpful to me and am sure to many other customers.</p>
+        </div>
+        <div class="feedback-date">Submitted on: April 3, 2024</div>
+    <div class="feedback-card">
+        <div class="customer-details">
+            <span class="customer-name">Charles Chyna</span><br>
+            <span class="customer-email">charesc@gmail.com</span>
+        </div>
+        <div class="feedback-text">
+            <p>This website is very fast and efficient</p>
+        </div>
+        <div class="feedback-date">Submitted on: April 3, 2024</div>
+        <div class="feedback-card">
+            <div class="customer-details">
+                <span class="customer-name">Shem Mavs</span></br>
+                <span class="customer-email">shemmav@gmail.com</span></br>
+                <div class="feedback text">
+                    <p>This website is good but the items are insufficient</p>
+                    </div>
+                    <div class="feedback-date">Submitted on: April 3, 2024</div>
+         <div class="feedback-card">
+            <div class="customer-details">
+                <span class="customer-name">Martin Gee</span></br>
+                <span class="customer-email">martingee@gmail.com</span></br>
+                </div>
+                <div class="feedback-text">
+                    <p>The items here are affordable</p>   
+                    </div>
+                    <div class="feedbac-date">Submitted on: April 3, 2024</div>  
+                
+
+</div>
+</body>
+</html>
